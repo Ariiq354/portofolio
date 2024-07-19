@@ -58,7 +58,7 @@
     <!-- Mobile -->
     <div class="xl:hidden">
       <Sheet.Root open={isOpen} onOpenChange={(open) => (isOpen = open)}>
-        <Sheet.Trigger class="flex items-center justify-center">
+        <Sheet.Trigger class="flex items-center justify-center" aria-label="menu">
           <AlignRight class="text-[32px] text-accent" />
         </Sheet.Trigger>
         <Sheet.Content>

@@ -31,6 +31,7 @@
             <div class="flex gap-6">
               <a
                 href="https://github.com/Ariiq354"
+                aria-label="github"
                 class="flex items-center justify-center rounded-full border border-accent p-2 text-accent transition-all duration-300 hover:bg-accent hover:text-primary"
               >
                 <Github size={20} />
@@ -38,6 +39,7 @@
               <a
                 href="https://www.linkedin.com/in/muhammadariiq"
                 target="_blank"
+                aria-label="linkedin"
                 class="flex items-center justify-center rounded-full border border-accent p-2 text-accent transition-all duration-300 hover:bg-accent hover:text-primary"
               >
                 <Linkedin size={20} />
@@ -52,7 +54,7 @@
           <div
             class="absolute flex aspect-square w-[274px] items-center justify-center overflow-hidden rounded-full xl:w-[470px]"
           >
-            <img src="/fotoProfil.jpeg" alt="Profile" />
+            <img src="/fotoProfil.webp" alt="Profile" width="963" height="1280" />
           </div>
           <svg
             class="h-[300px] w-[300px] animate-spin-slow xl:h-[506px] xl:w-[506px]"

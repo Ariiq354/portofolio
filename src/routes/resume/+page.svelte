@@ -129,7 +129,7 @@
       <div class="min-h-[70vh] w-full">
         <Tabs.Content value="experience" class="w-full">
           <div class="flex flex-col gap-[30px] text-center xl:text-left">
-            <h3 class="text-4xl font-bold">My Experience</h3>
+            <h1 class="text-4xl font-bold">My Experience</h1>
             <p class="mx-auto max-w-[600px] text-white/60 xl:mx-0">
               Showcasing my experience, this section outlines my roles in the company, demonstrating
               my experience in web development.
@@ -156,7 +156,7 @@
         </Tabs.Content>
         <Tabs.Content value="education" class="w-full">
           <div class="flex flex-col gap-[30px] text-center xl:text-left">
-            <h3 class="text-4xl font-bold">My Education</h3>
+            <h2 class="text-4xl font-bold">My Education</h2>
             <p class="mx-auto max-w-[600px] text-white/60 xl:mx-0">
               Detailing my academic background, this section highlights the degrees I've earned.
             </p>
@@ -182,7 +182,7 @@
         </Tabs.Content>
         <Tabs.Content value="skills" class="w-full">
           <div class="flex flex-col gap-[30px] text-center xl:text-left">
-            <h3 class="text-4xl font-bold">Skills</h3>
+            <h2 class="text-4xl font-bold">Skills</h2>
             <p class="mx-auto max-w-[600px] text-white/60 xl:mx-0">
               A list of my technical proficiencies, showcasing the tools and technologies I use to
               deliver a website.
@@ -207,7 +207,7 @@
         </Tabs.Content>
         <Tabs.Content value="about" class="w-full">
           <div class="flex flex-col gap-[30px] text-center xl:text-left">
-            <h3 class="text-4xl font-bold">About Me</h3>
+            <h2 class="text-4xl font-bold">About Me</h2>
             <p class="mx-auto max-w-[600px] text-white/60 xl:mx-0">
               A brief introduction to who I am as a person, including my contact details.
             </p>

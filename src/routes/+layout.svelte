@@ -4,6 +4,7 @@
   import '../app.pcss';
   import { fade } from 'svelte/transition';
   import { Toaster } from '$lib/components/ui/sonner';
+  import '@fontsource-variable/jetbrains-mono';
 
   export let data;
 </script>
