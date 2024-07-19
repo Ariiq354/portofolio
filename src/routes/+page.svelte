@@ -50,7 +50,7 @@
       <div class="order-1 mb-8 xl:order-none xl:mb-0">
         <div class="relative flex h-full w-full items-center justify-center">
           <div
-            class="absolute flex aspect-square w-[298px] items-center justify-center overflow-hidden rounded-full xl:w-[470px]"
+            class="absolute flex aspect-square w-[274px] items-center justify-center overflow-hidden rounded-full xl:w-[470px]"
           >
             <img src="/fotoProfil.jpeg" alt="Profile" />
           </div>
